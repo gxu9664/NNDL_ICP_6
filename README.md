@@ -31,8 +31,6 @@ Evaluation Criteria:
 2. Code Quality (https://en.wikipedia.org/wiki/Best_coding_practices)
 3. Time
 4. Feedback Submission
-Note: Cheating, plagiarism, disruptive behavior and other forms of unacceptable conduct are subject to strong
-sanctions in accordance with university policy.
 
 
 Video Link: https://drive.google.com/drive/u/2/folders/11BruYymJvZEHFXnLHF4zksiAjRoMUxOL
